@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class FileSeperator {
+public class FileSeparator {
     public static void main(String[] args) {
         try {
             File inputFile = new File("numbers.txt");
